@@ -26,7 +26,7 @@
 <div align="center">
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rimsha249)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rimsha-ali-22327328a)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimsha249@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rimsha249-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimsha249)
 
