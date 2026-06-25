@@ -25,17 +25,18 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ai--trip--planner--obwv.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-trip-planner-obwv.vercel.app)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rimsha249)
+<br/>
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimsha249@gmail.com)
+<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-rimsha249-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimsha249)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rimsha249&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
-![Stars](https://img.shields.io/github/stars/rimsha249?style=for-the-badge&color=6D28D9&logo=github&label=TOTAL+STARS)
+
 
 </div>
 
