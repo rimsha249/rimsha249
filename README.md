@@ -59,16 +59,16 @@ Currently placing significant focus on **Software Development Engineering** role
 <td width="40%" valign="top">
 
 ```yaml
-name        : Rimsha
-institute   : NIT Raipur
-degree      : B.Tech ECE (2027)
-cgpa        : 8.9 / 10.0
-role        : Full Stack + AI Engineer
-stack       : MERN · FastAPI · Docker · LLMs
-hardware    : Arduino · YOLOv8 · CV pipelines
-location    : Raipur, Chhattisgarh, India
-status      : Actively seeking SDE roles
-open_to     :
+Name        : Rimsha
+Institute   : NIT Raipur
+Degree      : B.Tech ECE (2027)
+CGPA        : 8.9 / 10.0 (upto 6th sem)
+Role        : Full Stack + AI Engineer
+Stack       : MERN · FastAPI · Docker · LLMs
+Hardware    : Arduino · YOLOv8 · CV pipelines
+Location    : Raipur, Chhattisgarh, India
+Status      : Actively seeking SDE roles
+Open_to     :
   - Full Stack Engineering
   - Backend Development
   - SDE Campus Placements (2027)
