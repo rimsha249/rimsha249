@@ -71,7 +71,6 @@ status      : Actively seeking SDE roles
 open_to     :
   - Full Stack Engineering
   - Backend Development
-
   - SDE Campus Placements (2027)
 ```
 
@@ -338,12 +337,6 @@ current_focus:
     - LLM fine-tuning and RAG architectures
     - Microservices and container orchestration
     - Advanced FastAPI patterns for production systems
-
-  open_to:
-    - SDE / Full Stack roles via campus placements (July 2025+)
-    - AI/ML Engineering opportunities
-    - Backend-heavy engineering positions
-    - Research or product-focused software teams
 ```
 
 ---
