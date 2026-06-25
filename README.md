@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+intelligent+full-stack+systems;MERN+%7C+FastAPI+%7C+YOLOv8+%7C+LLMs+%7C+Docker;ECE+%40+NIT+Raipur+%E2%80%94+Batch+of+2025;Turning+ideas+into+deployed+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+intelligent+full-stack+systems;MERN+%7C+FastAPI+%7C+YOLOv8+%7C+LLMs+%7C+Docker;ECE+%40+NIT+Raipur+%E2%80%94+Batch+of+2027;Turning+ideas+into+deployed+products)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ![BTech ECE](https://img.shields.io/badge/B.Tech%20ECE-NIT%20Raipur-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
 ![CGPA](https://img.shields.io/badge/CGPA-8.9%2F10-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-2025-4C1D95?style=for-the-badge&logo=calendar&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-2027-4C1D95?style=for-the-badge&logo=calendar&logoColor=white)
 ![Location](https://img.shields.io/badge/India-Raipur%2C%20CG-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
