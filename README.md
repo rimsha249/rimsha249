@@ -349,7 +349,7 @@ current_focus:
 | Platform | Link |
 |:---:|:---|
 | 📧 **Gmail** | [rimsha249@gmail.com](mailto:rimsha249@gmail.com) |
-| 💼 **LinkedIn** |[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rimsha-ali-22327328a) |
+| 💼 **LinkedIn** | [linkedin.com/in/rimsha-ali-22327328a](https://www.linkedin.com/in/rimsha-ali-22327328a) |
 | 🐙 **GitHub** | [github.com/rimsha249](https://github.com/rimsha249) |
 | 🌐 **Portfolio** | [ai-trip-planner-obwv.vercel.app](https://ai-trip-planner-obwv.vercel.app) |
 | 🏥 **Medical Care** | [medical-care-frontend-two.vercel.app](https://medical-care-frontend-two.vercel.app) |
@@ -359,7 +359,8 @@ current_focus:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-rimsha249%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimsha249@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rimsha249-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rimsha249)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)
+](https://www.linkedin.com/in/rimsha-ali-22327328a)
 [![GitHub](https://img.shields.io/badge/GitHub-rimsha249-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimsha249)
 
 </div>
