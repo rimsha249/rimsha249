@@ -71,8 +71,8 @@ status      : Actively seeking SDE roles
 open_to     :
   - Full Stack Engineering
   - Backend Development
-  - AI/ML Engineering
-  - SDE Campus Placements (2025)
+
+  - SDE Campus Placements (2027)
 ```
 
 </td>
