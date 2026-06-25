@@ -15,7 +15,7 @@
 <div align="center">
 
 ![BTech ECE](https://img.shields.io/badge/B.Tech%20ECE-NIT%20Raipur-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.9%2F10-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.9%2F10-6D28D9?style=for-the-badge&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-2027-4C1D95?style=for-the-badge&logo=calendar&logoColor=white)
 ![Location](https://img.shields.io/badge/India-Raipur%2C%20CG-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
