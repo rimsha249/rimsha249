@@ -1,23 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A7EB,100:5FAE7D&height=200&section=header&text=Rimsha&fontSize=80&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=58&descAlign=50&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:5EEAD4&height=200&section=header&text=Rimsha&fontSize=80&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=58&descAlign=50&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BE0&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+intelligent+full-stack+systems;MERN+%7C+FastAPI+%7C+YOLOv8+%7C+LLMs+%7C+Docker;ECE+%40+NIT+Raipur+%E2%80%94+Batch+of+2027;Turning+ideas+into+deployed+products)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![BTech ECE](https://img.shields.io/badge/B.Tech%20ECE-NIT%20Raipur-A78BE0?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.9%2F10-5FAE7D?style=for-the-badge&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-2027-8A6FC7?style=for-the-badge&logo=calendar&logoColor=white)
-![Location](https://img.shields.io/badge/India-Raipur%2C%20CG-3F8F63?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+intelligent+full-stack+systems;MERN+%7C+FastAPI+%7C+YOLOv8+%7C+LLMs+%7C+Docker;ECE+%40+NIT+Raipur+%E2%80%94+Batch+of+2027;Turning+ideas+into+deployed+products)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,12 +14,23 @@
 
 <div align="center">
 
+![BTech ECE](https://img.shields.io/badge/B.Tech%20ECE-NIT%20Raipur-0D9488?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.9%2F10-2DD4BF?style=for-the-badge&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-2027-115E59?style=for-the-badge&logo=calendar&logoColor=white)
+![Location](https://img.shields.io/badge/India-Raipur%2C%20CG-14B8A6?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-A78BE0?style=for-the-badge&logo=linkedin&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D9488?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/rimsha-ali-22327328a)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-3F8F63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimsha249@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rimsha249-8A6FC7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimsha249)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-115E59?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimsha249@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-rimsha249-14B8A6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimsha249)
 
 </div>
 
@@ -81,8 +81,8 @@ Open_to     :
 
 <div align="center">
 
-![Open To Work](https://img.shields.io/badge/Open%20To-SDE%20%7C%20Full%20Stack%20%7C%20AI%20Engineering-A78BE0?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Placement](https://img.shields.io/badge/Campus%20Placements-5FAE7D?style=for-the-badge&logo=target&logoColor=white)
+![Open To Work](https://img.shields.io/badge/Open%20To-SDE%20%7C%20Full%20Stack%20%7C%20AI%20Engineering-0D9488?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Placement](https://img.shields.io/badge/Campus%20Placements-115E59?style=for-the-badge&logo=target&logoColor=white)
 
 </div>
 
@@ -249,9 +249,9 @@ An AI-driven adaptive traffic signal control system combining Arduino microcontr
 
 <div align="center">
 
-![Hackathon](https://img.shields.io/badge/Hackathons-3%2B%20Participated-A78BE0?style=for-the-badge&logo=devpost&logoColor=white)
-![Projects](https://img.shields.io/badge/Live%20Projects-3%20Deployed-5FAE7D?style=for-the-badge&logo=vercel&logoColor=white)
-![Awards](https://img.shields.io/badge/Awards-1st%20Prize%20Winner-8A6FC7?style=for-the-badge&logo=trophy&logoColor=white)
+![Hackathon](https://img.shields.io/badge/Hackathons-3%2B%20Participated-0D9488?style=for-the-badge&logo=devpost&logoColor=white)
+![Projects](https://img.shields.io/badge/Live%20Projects-3%20Deployed-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white)
+![Awards](https://img.shields.io/badge/Awards-1st%20Prize%20Winner-115E59?style=for-the-badge&logo=trophy&logoColor=white)
 
 </div>
 
@@ -270,9 +270,9 @@ An AI-driven adaptive traffic signal control system combining Arduino microcontr
 
 <div align="center">
 
-![DSA Progress](https://img.shields.io/badge/DSA%20Topics%20Covered-13%2B-A78BE0?style=for-the-badge&logo=leetcode&logoColor=white)
-![Languages](https://img.shields.io/badge/Primary%20Language-C%2B%2B-5FAE7D?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Curriculum](https://img.shields.io/badge/Curriculum-Striver%20%2B%20NeetCode%20150-8A6FC7?style=for-the-badge&logo=bookstack&logoColor=white)
+![DSA Progress](https://img.shields.io/badge/DSA%20Topics%20Covered-13%2B-0D9488?style=for-the-badge&logo=leetcode&logoColor=white)
+![Languages](https://img.shields.io/badge/Primary%20Language-C%2B%2B-2DD4BF?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Curriculum](https://img.shields.io/badge/Curriculum-Striver%20%2B%20NeetCode%20150-115E59?style=for-the-badge&logo=bookstack&logoColor=white)
 
 </div>
 
@@ -282,14 +282,14 @@ An AI-driven adaptive traffic signal control system combining Arduino microcontr
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rimsha249&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=15121F&title_color=C9A7EB&icon_color=5FAE7D&text_color=D9CFF0&ring_color=A8E6B8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimsha249&layout=compact&langs_count=8&hide_border=true&bg_color=15121F&title_color=C9A7EB&text_color=D9CFF0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rimsha249&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A1A1A&title_color=5EEAD4&icon_color=2DD4BF&text_color=A7F3EF&ring_color=0D9488"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimsha249&layout=compact&langs_count=8&hide_border=true&bg_color=0A1A1A&title_color=5EEAD4&text_color=A7F3EF"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rimsha249&hide_border=true&background=15121F&stroke=C9A7EB&ring=A8E6B8&fire=5FAE7D&currStreakLabel=D9CFF0&sideLabels=D9CFF0&currStreakNum=C9A7EB&sideNums=A8E6B8&dates=8A6FC7" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rimsha249&hide_border=true&background=0A1A1A&stroke=5EEAD4&ring=2DD4BF&fire=14B8A6&currStreakLabel=A7F3EF&sideLabels=A7F3EF&currStreakNum=5EEAD4&sideNums=2DD4BF&dates=0D9488" width="60%"/>
 
 </div>
 
@@ -299,7 +299,7 @@ An AI-driven adaptive traffic signal control system combining Arduino microcontr
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rimsha249&bg_color=15121F&color=C9A7EB&line=5FAE7D&point=D9CFF0&area=true&area_color=2A2140&hide_border=true)](https://github.com/rimsha249)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rimsha249&bg_color=0A1A1A&color=5EEAD4&line=2DD4BF&point=A7F3EF&area=true&area_color=0F2E2C&hide_border=true)](https://github.com/rimsha249)
 
 </div>
 
@@ -349,7 +349,7 @@ current_focus:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-rimsha249%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimsha249@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-A78BE0?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D9488?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/rimsha-ali-22327328a)
 [![GitHub](https://img.shields.io/badge/GitHub-rimsha249-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimsha249)
 
@@ -365,6 +365,6 @@ current_focus:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A7EB,100:5FAE7D&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:5EEAD4&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
