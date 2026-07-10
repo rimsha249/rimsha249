@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/particle_header.gif" width="100%"/>
+<img src="particle_header.gif" width="100%"/>
 
 </div>
 
@@ -359,6 +359,6 @@ current_focus:
 
 <div align="center">
 
-<img src="assets/particle_footer.gif" width="100%"/>
+<img src="particle_footer.gif" width="100%"/>
 
 </div>
