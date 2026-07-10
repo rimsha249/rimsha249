@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:134E4A,50:0D9488,100:5EEAD4&height=220&section=header&text=Rimsha&fontSize=75&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=55&descAlign=50&animation=twinkling&fontColor=ffffff" width="100%"/>
+<img src="assets/particle_header.gif" width="100%"/>
 
 </div>
 
@@ -359,6 +359,6 @@ current_focus:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:134E4A,50:0D9488,100:5EEAD4&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="assets/particle_footer.gif" width="100%"/>
 
 </div>
