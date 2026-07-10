@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="particle_header.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:5EEAD4&height=200&section=header&text=Rimsha&fontSize=80&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=58&descAlign=50&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 </div>
 
@@ -24,6 +24,8 @@
 <br/>
 
 <div align="center">
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D9488?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/rimsha-ali-22327328a)
@@ -303,6 +305,10 @@ An AI-driven adaptive traffic signal control system combining Arduino microcontr
 
 ---
 
+
+
+---
+
 ## ◈ Current Focus
 
 ```yaml
@@ -359,6 +365,6 @@ current_focus:
 
 <div align="center">
 
-<img src="particle_footer.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:5EEAD4&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
