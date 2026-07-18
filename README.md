@@ -278,14 +278,8 @@ An AI-driven adaptive traffic signal control system combining Arduino microcontr
 
 ---
 
-## ◈ GitHub Analytics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rimsha249&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A1A1A&title_color=5EEAD4&icon_color=2DD4BF&text_color=A7F3EF&ring_color=0D9488"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimsha249&layout=compact&langs_count=8&hide_border=true&bg_color=0A1A1A&title_color=5EEAD4&text_color=A7F3EF"/>
-
-</div>
 
 <div align="center">
 
